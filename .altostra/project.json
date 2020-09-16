@@ -1,8 +1,0 @@
-{
-  "id": "my-typescript-rest-api-app-oy10t5p",
-  "name": "my-typescript-rest-api-app",
-  "created": "2020-09-16T12:37:57.106Z",
-  "description": "Managed serverless framework project.",
-  "blueprints": [],
-  "type": "serverless-framework"
-}
