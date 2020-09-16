@@ -1,0 +1,8 @@
+{
+  "id": "my-typescript-rest-api-app-kg30why",
+  "name": "my-typescript-rest-api-app",
+  "created": "2020-09-16T13:46:20.080Z",
+  "description": "Managed serverless framework project.",
+  "blueprints": [],
+  "type": "serverless-framework"
+}
